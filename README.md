@@ -5,6 +5,13 @@ This project is aimed at a structured layout, responsive web principles, and cle
 
 ---
 
+## Live Demo
+
+You can view the deployed website here:
+🔗 https://stratify-website-coral.vercel.app
+
+---
+
 ## Overview
 
  Stratify is a modern site of consulting firm that includes:
